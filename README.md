@@ -11,6 +11,12 @@ The App has a very simple design and a couple of features, such as:
 - Saving insults (but only for the time the app is running)
 - Sharing insults in social media
 
+## Screens
+The App has 3 screens:
+- Loading screen
+- Main screen, where new insults can be generated
+- Saved screen, for insults you want to save and be able to access later
+
 A few resources related to EIG:
 
 - [Evil Insult Generator Website](https://evilinsult.com/)
